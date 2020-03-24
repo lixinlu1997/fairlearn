@@ -249,9 +249,8 @@ For a full list of contributors refer to the [authors page](./AUTHORS.md)
 
 ### Usage Questions
 
-Pose questions and help answer them on [Stack
-Overflow](https://stackoverflow.com/questions/tagged/fairlearn) with the tag
-`fairlearn`.
+For usage questions follow [these
+instructions](https://github.com/fairlearn/fairlearn-community/blob/master/README.md#usage-questions).
 
 ### Regular (non-security) issues
 
